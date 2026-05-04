@@ -1,0 +1,9 @@
+boto3==1.43.2
+pandas==3.0.2
+protobuf==7.34.1
+psycopg2_binary==2.9.11
+pydicom==3.0.2
+pyspark==4.1.1
+pytest==9.0.3
+sqlglot==30.6.0
+tqdm==4.67.3
