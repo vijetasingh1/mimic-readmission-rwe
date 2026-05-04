@@ -100,14 +100,11 @@ The **index admission** is defined as the first qualifying inpatient hospitaliza
 
 # Key Findings
 
- 1. Overall 30‑day readmission rate was approximately 6–7%
- 2. Length of stay showed a strong, positive association with readmission risk
- 3. Age demonstrated a non‑linear relationship with readmission:
-     Middle‑aged and older adults had lower adjusted odds than younger adults
-     Risk in the oldest patients was largely mediated by hospitalization characteristics
- 4. Gender was statistically associated with readmission but with a small effect size
- 5. Overall model discrimination was modest (ROC‑AUC ≈ 0.56), consistent with prior literature
-
+## Key Findings
+- Overall 30‑day readmission rate ~6–7%
+- Length of stay strongly associated with readmission
+- Non‑linear age effects observed
+- Modest discrimination (ROC‑AUC ≈ 0.56), consistent with prior literature
 ---
 
 # Limitations
